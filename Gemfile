@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'paperclip'
-gem 'devise'
+gem 'devise', '>= 5.0.3'
 gem 'twitter-bootstrap-rails'
 
 # Use ActiveModel has_secure_password
